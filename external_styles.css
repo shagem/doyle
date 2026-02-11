@@ -25,3 +25,5 @@ a.topnav {transition: 0.3s;}
 .action_button {margin: 2rem auto;}
 .cartData {flex-grow: 1; margin-top: 1rem;}
 .bodytxtm, .smtxt {font-size: 1rem;}
+
+.catbox {background-color: yellow;}
