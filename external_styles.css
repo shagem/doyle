@@ -1,0 +1,27 @@
+.sbutton.green {background: linear-gradient(to bottom, #1e40af, #1e3a8a); transition: 0.3s; border-radius: 10px;}
+.sbutton.green:hover {background: linear-gradient(to bottom, #b59859, #a38950);}
+.sbutton.blue {background: linear-gradient(to bottom, #1e40af, #1e3a8a); border-radius: 10px;}
+.sbutton.lblue {background: linear-gradient(to bottom, #1e40af, #1e3a8a); color: white; border-radius: 10px;}
+.sbutton.lblue:hover {background: linear-gradient(to bottom, #b59859, #a38950);}
+.sbutton.gray {border-radius: 10px;}
+
+
+.loginWrapper {border-top: 5px solid #003882; border-radius: 10px; box-shadow: 0px 3px 5px grey;}
+.loginHeader {width: -moz-available; width: -webkit-fill-available; width: fill-available;}
+
+hr {display: none;}
+a.topnav {transition: 0.3s;}
+
+#cartbuttons {margin-bottom: 1rem;}
+#cartButtons {margin: 1rem;}
+
+#wrapper {max-width: 100%;}
+#maincontent {padding: 0;}
+#topnav {margin: 2rem 0 1.5rem 0;}
+#welcome, #tableaccount {margin-bottom: 1rem !important;}
+#form2 {display: flex; flex-flow: column; align-items: center;}
+#e2 {margin-bottom: 1rem;}
+
+.action_button {margin: 2rem auto;}
+.cartData {flex-grow: 1; margin-top: 1rem;}
+.bodytxtm, .smtxt {font-size: 1rem;}
